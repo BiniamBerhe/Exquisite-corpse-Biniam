@@ -1,10 +1,10 @@
 # This is my story of a dog called Snoupy
 
-## Snoupy is a happy dog
-
-### He likes playing a lot
-
-#### And snoupy has a lot of friends
+```Ocaml
+Snoupy is a happy dog
+He likes playing a lot
+And snoupy has a lot of friends
+```
 
 ```Ocaml
 Among his friends, there is a cat, a snake and a tiny little humain.
@@ -20,3 +20,5 @@ to sneak something up from the bakery.
     A glittering roof slaps at CRAXY ephemera.
 
 > FUNNY SNOUPY
+
+** Without fault **
